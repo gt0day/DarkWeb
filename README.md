@@ -436,7 +436,7 @@
 - https://www.bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion/
 
 * Daily Stormer
-- stormer5v52vjsw66jmds7ndeecudq444woadhzr2plxlaayexnh6eqd.onion
+- http://stormer5v52vjsw66jmds7ndeecudq444woadhzr2plxlaayexnh6eqd.onion
 
 * Dark Net Live
 - http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/
