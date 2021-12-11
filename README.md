@@ -3,7 +3,31 @@
 
 ![DarkWeb](darkweb.jpg)
 
-## [ Start Point ]
+## Hidden Wiki Editor’s picks
+> Some of the most interesting sites on The Hidden Wiki and the dark web
+
+##### 1.Mixabit – Bitcoin mixer
+- http://hqfld5smkr4b4xrjcco7zotvoqhuuoehjdvoin755iytmpk4sm7cbwad.onion/
+- http://hqfld5smkr4b4xrjcco7zotvoqhuuoehjdvoin755iytmpk4sm7cbwad.onion/
+
+##### 2.OnionLinks – .Onion link directory.
+- http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion/
+- http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/
+
+##### 3.Bitpharma – Biggest european .onion drug store
+- http://guzjgkpodzshso2nohspxijzk5jgoaxzqioa7vzy6qdmwpz3hq4mwfid.onion/
+
+##### 4.DarkWebHackers – Dark Web Hackers for hire.
+- http://zkj7mzglnrbvu3elepazau7ol26cmq7acryvsqxvh4sreoydhzin7zid.onion/
+- http://prjd5pmbug2cnfs67s3y65ods27vamswdaw2lnwf45ys3pjl55h2gwqd.onion/
+
+##### 5.Cardshop – USA CVV KNOWN BALANCE & Worldwide CC & CVV .
+- http://f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6gnlcw3n4qad.onion/
+- http://s57divisqlcjtsyutxjz2ww77vlbwpxgodtijcsrgsuts4js5hnxkhqd.onion/
+
+
+## [ Introduction Points ]
+> Some sites with good .onion lists
 
 ### The Hidden Wiki
 - https://thehiddenwiki.com/
@@ -21,14 +45,11 @@
 ### Another Hidden Wiki Another hidden wiki like link collection.
 - http://2jwcnprqbugvyi6ok2h2h7u26qc6j5wxm7feh3znlh2qu3h6hjld4kyd.onion/
 
-### The Dark Web Pug
+### The Dark Web Pug - Pug’s Ultimate Dark Web Guide .
 - http://jgwe5cjqdbyvudjqskaajbfibfewew4pndx52dye7ug3mt3jimmktkid.onion/
 
 ### Torlinks - TorLinks is a moderated replacement for The Hidden Wiki.
 - http://torlinksge6enmcyyuxjpjkoouw4oorgdgeo7ftnq3zodj7g2zxi3kyd.onion/
-
-### OnionLinks - A good link collection, calls itself the Hidden Wiki mirror.
-- http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion/
 
 ### The Longest Onion Index
 - http://jptvwdeyknkv6oiwjtr2kxzehfnmcujl7rf7vytaikmwlvze773uiyyd.onion/
@@ -80,6 +101,41 @@
 
 ### Trust Wiki
 - http://wiki6dtqpuvwtc5hopuj33eeavwa6sik7sy57cor35chkx5nrbmmolqd.onion/
+
+## [ Financial Services ]
+> Currencies, banks, money markets, clearing houses, exchangers
+
+### AccMarket – Premium Paypal, Ebay and bank accounts.
+- http://z7s2w5vruxbp2wzts3snxs24yggbtdcdj5kp2f6z5gimouyh3wiaf7id.onion/
+- http://55niksbd22qqaedkw36qw4cpofmbxdtbwonxam7ov2ga62zqbhgty3yd.onion/
+
+### Dark Mixer – Anonymous bitcoin mixer
+- http://y22arit74fqnnc2pbieq3wqqvkfub6gnlegx3cl6thclos4f7ya7rvad.onion/
+
+### Viring Bitcoins – Buy freshly mined clean bitcoins .
+- http://ovai7wvp4yj6jl3wbzihypbq657vpape7lggrlah4pl34utwjrpetwid.onion/
+
+### ccPal – PayPals, Ebays, CCs and more
+- http://xykxv6fmblogxgmzjm5wt6akdhm4wewiarjzcngev4tupgjlyugmc7qd.onion/
+- http://gch3dyxo5zuqbrrtd64zlvzwxden4jkikyqk3ikjhggqzoxixcmq2fid.onion/
+
+### Webuybitcoins – Sell your Bitcoins for Cash, Paypal, WU etc
+- http://wk3mtlvp2ej64nuytqm3mjrm6gpulix623abum6ewp64444oreysz7qd.onion/
+- http://2bcbla34hrkp6shb4myzb2wntl2fxdbrroc2t4t7c3shckvhvk4fw6qd.onion/
+
+### HQER – High Quality Euro bill counterfeits 
+- http://odahix2ysdtqp4lgak4h2rsnd35dmkdx3ndzjbdhk3jiviqkljfjmnqd.onion/
+- http://sa3ut5u4qdw7yiunpdieypzsrdylhbtafyhymd75syjcn46yb5ulttid.onion/
+
+### Counterfeit USD – High Quality USD counterfeits
+- http://qazkxav4zzmt5xwfw6my362jdwhzrcafz7qpd5kugfgx7z7il5lyb6ad.onion/
+- http://pliy7tiq6jf77gkg2sezlx7ljynkysxq6ptmfbfcdyrvihp7i6imyyqd.onion/
+
+### EasyCoin – Bitcoin Wallet and Mixer
+- http://mp3fpv6xbrwka4skqliiifoizghfbjy5uyu77wwnfruwub5s4hly2oid.onion/
+
+### Onionwallet – Anonymous and secure bitcoin wallet and mixer 
+- http://p2qzxkca42e3wccvqgby7jrcbzlf6g7pnkvybnau4szl5ykdydzmvbid.onion/
 
 ## [ Search Engines ]
 
@@ -268,9 +324,6 @@
 ### 420prime
 - http://ajlu6mrc7lwulwakojrgvvtarotvkvxqosb4psxljgobjhureve4kdqd.onion/
 
-### BitPhrma
-- http://guzjgkpodzshso2nohspxijzk5jgoaxzqioa7vzy6qdmwpz3hq4mwfid.onion/
-
 ### EuCanna
 - http://n6qisfgjauj365pxccpr5vizmtb5iavqaug7m7e4ewkxuygk5iim6yyd.onion/
 
@@ -293,9 +346,11 @@
 
 ### UK Guns
 - http://k6m3fagp4w4wspmdt23fldnwrmknse74gmxosswvaxf3ciasficpenad.onion/
+- http://onili244aue7jkvzn2bgaszcb7nznkpyihdhh7evflp3iskfq7vhlzid.onion/
 
 ### EuroGuns
 - http://t43fsf65omvf7grt46wlt2eo5jbj3hafyvbdb7jtr2biyre5v24pebad.onion/
+- http://hyjgsnkanan2wsrksd53na4xigtxhlz57estwqtptzhpa53rxz53pqad.onion/
 
 [ Services ]
 
@@ -313,30 +368,27 @@
 
 ### Onion Identify Services
 - http://ymvhtqya23wqpez63gyc3ke4svju3mqsby2awnhd3bk2e65izt7baqad.onion/
+- http://endtovmbc5vokdpnxrhajcwgkfbkfz4wbyhbj6ueisai4prtvencheyd.onion/
 
 ### US Fake ID Store
 - http://lqcjo7esbfog5t4r4gyy7jurpzf6cavpfmc4vkal4k2g4ie66ao5mryd.onion/
-
-### Counterfeit USD
-- http://qazkxav4zzmt5xwfw6my362jdwhzrcafz7qpd5kugfgx7z7il5lyb6ad.onion/
+- http://7wsvq2aw5ypduujgcn2zauq7sor2kqrqidguwwtersivfa6xcmdtaayd.onion/
 
 ### USA Citizenship
 - http://gd5x24pjoan2pddc2fs6jlmnqbawq562d2qyk6ym4peu5ihzy6gd4jad.onion/
+- http://pz5uprzhnzeotviraa2fogkua5nlnmu75pbnnqu4fnwgfffldwxog7ad.onion/
 
 ### Apples 4 Bitcoin
 - http://okayd5ljzdv4gzrtiqlhtzjbflymfny2bxc2eacej3tamu2nyka7bxad.onion/
+- http://awsvrc7occzj2yeyqevyrw7ji5ejuyofhfomidhh5qnuxpvwsucno7id.onion/
 
 ### UK Passports
 - http://3bp7szl6ehbrnitmbyxzvcm3ieu7ba2kys64oecf4g2b65mcgbafzgqd.onion/
-
-### ccPal Store
-- http://xykxv6fmblogxgmzjm5wt6akdhm4wewiarjzcngev4tupgjlyugmc7qd.onion/
+- http://wosc4noitfscyywccasl3c4yu3lftpl2adxuvprp6sbg4fud6mkrwqqd.onion/
 
 ### Rent-A-Hacker
 - http://kq4okz5kf4xosbsnvdr45uukjhbm4oameb6k6agjjsydycvflcewl4qd.onion/
-
-### HQER 
-- http://odahix2ysdtqp4lgak4h2rsnd35dmkdx3ndzjbdhk3jiviqkljfjmnqd.onion/
+- http://jn6weomv6klvnwdwcgu55miabpwklsmmyaf5qrkt4miif4shrqmvdhqd.onion/
 
 ## [ Cryptocurrency mixers/exchanges ]
 
@@ -385,44 +437,24 @@
 ### Xchange.me
 - http://aa7oyok6dxgyedeteldaumqjernm5ai7dnpqayy3p4q7solc6dxi5vad.onion/
 
-### Acc Market
-- http://55niksbd22qqaedkw36qw4cpofmbxdtbwonxam7ov2ga62zqbhgty3yd.onion/
-
-### Cardshop
-- http://s57divisqlcjtsyutxjz2ww77vlbwpxgodtijcsrgsuts4js5hnxkhqd.onion/
-
-### Dark Mixer
-- http://y22arit74fqnnc2pbieq3wqqvkfub6gnlegx3cl6thclos4f7ya7rvad.onion/
-
-### Viring Bitcoins
-- http://ovai7wvp4yj6jl3wbzihypbq657vpape7lggrlah4pl34utwjrpetwid.onion/
-
-### Mixabit Bitcoin Mixer
-- http://hqfld5smkr4b4xrjcco7zotvoqhuuoehjdvoin755iytmpk4sm7cbwad.onion/
-
 ### Dark Mining 
 - http://jbtb75gqlr57qurikzy2bxxjftzkmanynesmoxbzzcp7qf5t46u7ekqd.onion/
+- http://sazyr2ntihjqpjtruxbn2z7kingj6hfgysiy5lzgo2aqduqpa3gfgmyd.onion/
 
 ### Bitcoin Investment Trust
 - http://jhi4v5rjly75ggha26cu2eeyfhwvgbde4w6d75vepwxt2zht5sqfhuqd.onion/ 
+- http://2ezyofc26j73hv3xxvsrnbc23dqxhgxqtk5ogcc7y6j5t6rlqquvhzid.onion/
 
 ### Mobile Store
 - http://rxmyl3izgquew65nicavsk6loyyblztng6puq42firpvbe32sefvnbad.onion/
+- http://ez37hmhem2gh3ixctfeaqn7kylal2vyjqsedkzhu4ebkcgikrigr5gid.onion/
 
 ### Kamagra For Bitcoin
 - http://vhlehwexxmbnvecbmsk4ormttdvhlhbnyabai4cithvizzaduf3gmayd.onion/
-
-### Onion Wallet 
-- http://p2qzxkca42e3wccvqgby7jrcbzlf6g7pnkvybnau4szl5ykdydzmvbid.onion/
+- http://bepig5bcjdhtlwpgeh3w42hffftcqmg7b77vzu7ponty52kiey5ec4ad.onion/
 
 ### Brainmagic
 - http://2ln3x7ru6psileh7il7jot2ufhol4o7nd54z663xonnnmmku4dgkx3ad.onion/
-
-### EasyCoin Bitcoin Wallet
-- http://mp3fpv6xbrwka4skqliiifoizghfbjy5uyu77wwnfruwub5s4hly2oid.onion/
-
-### WeBuyBitcoins
-- http://wk3mtlvp2ej64nuytqm3mjrm6gpulix623abum6ewp64444oreysz7qd.onion/
 
 ## [ News ]
 
