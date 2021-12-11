@@ -6,22 +6,22 @@
 ## Hidden Wiki Editor’s picks
 > Some of the most interesting sites on The Hidden Wiki and the dark web
 
-##### 1.Mixabit – Bitcoin mixer
+##### [1] Mixabit – Bitcoin mixer
 - http://hqfld5smkr4b4xrjcco7zotvoqhuuoehjdvoin755iytmpk4sm7cbwad.onion/
 - http://hqfld5smkr4b4xrjcco7zotvoqhuuoehjdvoin755iytmpk4sm7cbwad.onion/
 
-##### 2.OnionLinks – .Onion link directory.
+##### [2] OnionLinks – .Onion link directory.
 - http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion/
 - http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/
 
-##### 3.Bitpharma – Biggest european .onion drug store
+##### [3] Bitpharma – Biggest european .onion drug store
 - http://guzjgkpodzshso2nohspxijzk5jgoaxzqioa7vzy6qdmwpz3hq4mwfid.onion/
 
-##### 4.DarkWebHackers – Dark Web Hackers for hire.
+##### [4] DarkWebHackers – Dark Web Hackers for hire.
 - http://zkj7mzglnrbvu3elepazau7ol26cmq7acryvsqxvh4sreoydhzin7zid.onion/
 - http://prjd5pmbug2cnfs67s3y65ods27vamswdaw2lnwf45ys3pjl55h2gwqd.onion/
 
-##### 5.Cardshop – USA CVV KNOWN BALANCE & Worldwide CC & CVV .
+##### [5] Cardshop – USA CVV KNOWN BALANCE & Worldwide CC & CVV .
 - http://f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6gnlcw3n4qad.onion/
 - http://s57divisqlcjtsyutxjz2ww77vlbwpxgodtijcsrgsuts4js5hnxkhqd.onion/
 
