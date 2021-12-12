@@ -602,7 +602,7 @@ September 2020: Old v2 .onion sites will show a warning in Torbrowser.
 
 October 2021: Old v2 .onion sites will stop working in the latest release of the Torbrowser.
 
-The migration to a new hidden service version will take some time, we hope all dark web sites operators will publish a v3 .onion soon so we can list them on The this repo.
+The migration to a new hidden service version will take some time, we hope all dark web sites operators will publish a v3 .onion soon so we can list them on this repo.
 ```
 
 ## Why migrate from v2 to v3 .onion domains?
