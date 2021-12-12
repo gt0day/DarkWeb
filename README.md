@@ -71,6 +71,10 @@ The following list are the first sites which are available as a v3 .onion hidden
 ### Wiki Links | Tor .onion urls directories
 - http://vykenniek4sagugiayj3z32rpyrinoadduprjtdy4wharue6cz7zudid.onion/
 
+### DuckDuckGo – A Hidden Service that searches the clearnet.
+- https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/
+
+
 ### Link Dir Onion
 - http://lnbpcgk4mem5vvvwilqsk7yb5i2bgtjphnvq37kajdycu56i5omt4cqd.onion/
 
@@ -116,6 +120,31 @@ The following list are the first sites which are available as a v3 .onion hidden
 ### Trust Wiki
 - http://wiki6dtqpuvwtc5hopuj33eeavwa6sik7sy57cor35chkx5nrbmmolqd.onion/
 
+## [ Search Engines ]
+> Search on dark web 
+
+### Ahmia.fi - Clearnet search engine for Tor Hidden Services.
+- http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
+
+### DuckDuckGo Unoffecial
+- http://duckgoknglkhx43vwhlcycmzep3rnjkrckzfjdx5iorbhdqucvhsrdad.onion/
+
+### Torch - Tor Search Engine. Claims to index around 1.1 Million pages.
+- http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/cgi-bin/omega/omega
+
+### Sentor
+- http://e27slbec2ykiyo26gfuovaehuzsydffbit5nlxid53kigw3pvz6uosqd.onion/
+
+### Demon
+- http://srcdemonm74icqjvejew6fprssuolyoc2usjdwflevbdpqoetw4x3ead.onion/
+
+### FindTor
+- http://findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion/
+
+### TorNode
+- http://e6wzjohnxejirqa2sgridvymv2jxhrqdfuyxvoxp3xpqh7kr4kbwpwad.onion/
+
+
 ## [ Financial Services ]
 > Currencies, banks, money markets, clearing houses, exchangers
 
@@ -151,36 +180,286 @@ The following list are the first sites which are available as a v3 .onion hidden
 ### Onionwallet – Anonymous and secure bitcoin wallet and mixer 
 - http://p2qzxkca42e3wccvqgby7jrcbzlf6g7pnkvybnau4szl5ykdydzmvbid.onion/
 
-## [ Search Engines ]
+### Buy or Sell Bitcoins Anonymous
+- http://2jopbxfi2mrw6pfpmufm7smacrgniglr7a4raaila3kwlhlumflxfxad.onion/nojs/
 
-### Ahmia.fi - Clearnet search engine for Tor Hidden Services.
-- http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
+### Anonymixer
+- http://btcmixer2e3pkn64eb5m65un5nypat4mje27er4ymltzshkmujmxlmyd.onion/
 
-### DuckDuckGo - A Hidden Service that searches the clearnet.
-- https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/
+### Antinalysis
+- http://pdcdvggsz5vhzbtxqn2rh27qovzga4pnrygya4ossewu64dqh2tvhsyd.onion/
 
-### DuckDuckGo Unoffecial
-- http://duckgoknglkhx43vwhlcycmzep3rnjkrckzfjdx5iorbhdqucvhsrdad.onion/
+### Bisq Wiki
+- http://s3p666he6q6djb6u3ekjdkmoyd77w63zq6gqf6sde54yg6bdfqukz2qd.onion/
 
-### Torch - Tor Search Engine. Claims to index around 1.1 Million pages.
-- http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/cgi-bin/omega/omega
+### Bitcoin Core
+- http://6hasakffvppilxgehrswmffqurlcjjjhd76jgvaqmsg6ul25s7t3rzyd.onion/
 
-### Sentor
-- http://e27slbec2ykiyo26gfuovaehuzsydffbit5nlxid53kigw3pvz6uosqd.onion/
+### Blender.io
+- http://blenderiopnzbuvtva6d2ddiedrbf6fbekh5axomzho6wrulowcludad.onion/
 
-### Demon
-- http://srcdemonm74icqjvejew6fprssuolyoc2usjdwflevbdpqoetw4x3ead.onion/
+### Coinb.in
+- http://coinbin3ravkwb24f7rmxx6w3snkjw45jhs5lxbh3yfeg3vpt6janwqd.onion/
 
-### FindTor
-- http://findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion/
+### Feather
+- http://featherdvtpi7ckdbkb2yxjfwx3oyvr3xjz3oo4rszylfzjdg6pbm3id.onion/
 
-### TorNode
-- http://e6wzjohnxejirqa2sgridvymv2jxhrqdfuyxvoxp3xpqh7kr4kbwpwad.onion/
+### Monero
+- http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/
+
+### Kilos | Darknet Market
+- http://mlyusr6htlxsyc7t2f4z53wdxh3win7q3qpxcrbam6jf3dmua7tnzuyd.onion/search
+
+### Majestic Bank
+- https://majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion/
+
+### Wasabi Wallet
+- http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion/
+
+### Xchange.me
+- http://aa7oyok6dxgyedeteldaumqjernm5ai7dnpqayy3p4q7solc6dxi5vad.onion/
+
+### Dark Mining 
+- http://jbtb75gqlr57qurikzy2bxxjftzkmanynesmoxbzzcp7qf5t46u7ekqd.onion/
+- http://sazyr2ntihjqpjtruxbn2z7kingj6hfgysiy5lzgo2aqduqpa3gfgmyd.onion/
+
+### Bitcoin Investment Trust
+- http://jhi4v5rjly75ggha26cu2eeyfhwvgbde4w6d75vepwxt2zht5sqfhuqd.onion/ 
+- http://2ezyofc26j73hv3xxvsrnbc23dqxhgxqtk5ogcc7y6j5t6rlqquvhzid.onion/
+
+
+## [ Commercial Services ]
+
+### Mobile Store – Best unlocked cell phones vendor
+- http://rxmyl3izgquew65nicavsk6loyyblztng6puq42firpvbe32sefvnbad.onion/
+- http://ez37hmhem2gh3ixctfeaqn7kylal2vyjqsedkzhu4ebkcgikrigr5gid.onion/
+
+### Kamagra 4 Bitcoin – Like Viagra but cheaper
+- http://vhlehwexxmbnvecbmsk4ormttdvhlhbnyabai4cithvizzaduf3gmayd.onion/
+- http://bepig5bcjdhtlwpgeh3w42hffftcqmg7b77vzu7ponty52kiey5ec4ad.onion/
+
+### OnionIdentityServices – Fake passports and ID cards for bitcoin
+- http://ymvhtqya23wqpez63gyc3ke4svju3mqsby2awnhd3bk2e65izt7baqad.onion/
+- http://endtovmbc5vokdpnxrhajcwgkfbkfz4wbyhbj6ueisai4prtvencheyd.onion/
+
+### UkGunsAndAmmo – Uk Guns and Ammo Store
+- http://k6m3fagp4w4wspmdt23fldnwrmknse74gmxosswvaxf3ciasficpenad.onion/
+- http://onili244aue7jkvzn2bgaszcb7nznkpyihdhh7evflp3iskfq7vhlzid.onion/
+
+### USfakeIDs – US fake ID store
+- http://lqcjo7esbfog5t4r4gyy7jurpzf6cavpfmc4vkal4k2g4ie66ao5mryd.onion/
+- http://7wsvq2aw5ypduujgcn2zauq7sor2kqrqidguwwtersivfa6xcmdtaayd.onion/
+
+### EuroGuns – Your #1 european arms dealer.
+- http://t43fsf65omvf7grt46wlt2eo5jbj3hafyvbdb7jtr2biyre5v24pebad.onion/
+- http://hyjgsnkanan2wsrksd53na4xigtxhlz57estwqtptzhpa53rxz53pqad.onion/
+
+### Apples4Bitcoin – Iphones, Ipads and more for bitcoin
+- http://okayd5ljzdv4gzrtiqlhtzjbflymfny2bxc2eacej3tamu2nyka7bxad.onion/
+- http://awsvrc7occzj2yeyqevyrw7ji5ejuyofhfomidhh5qnuxpvwsucno7id.onion/
+
+### UKpassports – real UK passports
+- http://3bp7szl6ehbrnitmbyxzvcm3ieu7ba2kys64oecf4g2b65mcgbafzgqd.onion/
+- http://wosc4noitfscyywccasl3c4yu3lftpl2adxuvprp6sbg4fud6mkrwqqd.onion/
+
+### USAcitizenship – become a citizen of the USA
+- http://gd5x24pjoan2pddc2fs6jlmnqbawq562d2qyk6ym4peu5ihzy6gd4jad.onion/
+- http://pz5uprzhnzeotviraa2fogkua5nlnmu75pbnnqu4fnwgfffldwxog7ad.onion/
+
+### Rent-A-Hacker – Hire a hacker for Bitcoin
+- http://kq4okz5kf4xosbsnvdr45uukjhbm4oameb6k6agjjsydycvflcewl4qd.onion/
+- http://jn6weomv6klvnwdwcgu55miabpwklsmmyaf5qrkt4miif4shrqmvdhqd.onion/
+
+### TorShops - Create your own .onion store
+- http://uescqfrcztbhb6tmhdlbejrjfwgtpckcoiwmwq5bfq5hhkwfioan7qad.onion/
+
+
+## [ Drugs ]
+
+### DCdutchconnectionUK – The dutch connection for the UK 
+- http://wbz2lrxhw4dd7h5t2wnoczmcz5snjpym4pr7dzjmah4vi6yywn37bdyd.onion/
+
+### DrChronic – Weed straight from the source 
+- http://iwggpyxn6qv3b2twpwtyhi2sfvgnby2albbcotcysd5f7obrlwbdbkyd.onion/
+
+### TomAndJerry – Cocaine, Heroin, MDMA and LSD from NL
+- http://rfyb5tlhiqtiavwhikdlvb3fumxgqwtg2naanxtiqibidqlox5vispqd.onion/
+
+### 420prime – Cannabis in dispensary quality from the UK
+- http://ajlu6mrc7lwulwakojrgvvtarotvkvxqosb4psxljgobjhureve4kdqd.onion/
+
+### EuCanna – First Class Cannabis
+- http://n6qisfgjauj365pxccpr5vizmtb5iavqaug7m7e4ewkxuygk5iim6yyd.onion/
+
+### Smokeables – Finest organic cannabis from the USA
+- http://kl4gp72mdxp3uelicjjslqnpomqfr5cbdd3wzo5klo3rjlqjtzhaymqd.onion/
+
+### CannabisUK – UK wholesale cannabis supplier
+- http://7mejofwihleuugda5kfnr7tupvfbaqntjqnfxc4hwmozlcmj2cey3hqd.onion/
+
+### Brainmagic – Best Darkweb psychedelics
+- http://2ln3x7ru6psileh7il7jot2ufhol4o7nd54z663xonnnmmku4dgkx3ad.onion/
+
+### NLGrowers – Coffee Shop grade Cannabis from the netherlands
+- http://usmost4cbpesx552s2s4ti3c4nk2xgiu763vhcs3b4uc4ppp3zwnscyd.onion/
+
+### Peoples Drug Store – The Darkwebs best Drug supplier!
+- http://xf2gry25d3tyxkiu2xlvczd3q7jl6yyhtpodevjugnxia2u665asozad.onion/
+
+### DeDope – German Weed Store
+- http://sga5n7zx6qjty7uwvkxpwstyoh73shst6mx3okouv53uks7ks47msayd.onion/
+
+### Drugs
+- http://ofhusuznhfnmtli3l6r3xizo27zoymka77dzehkeib56fhuxrcloy2id.onion/
+
+### Store Cocaine
+- http://bnkgnccepweowy5oqxuop2w576rdlyerqtfi2qh3slxrqh4towrlcead.onion/
+
+### Cannabis
+- http://hpcphv5q3lhiebh6c765lslihne4tn6ui5dnd636eo2ic3ytv7c72qid.onion/
+
+### Shop LSD
+- http://m5cdgczbmmpidmaa7jozopb4bd5g27lezdwymnqeoiwqsc6wf5ekuhad.onion/
+
+### Market Ecstasy
+- http://6ewotpaeih7g6gphvesr5td3p4fqtniwzhlxfjszemvbi7zg75ceyzid.onion/
+
+
+## [ Chans ]
+
+### 8Chan – Successor of 4chan
+- http://4usoivrpy52lmc4mgn2h34cmfiltslesthr56yttv2pxudd3dapqciyd.onion/
+
+### Nanochan – Another good chan
+- http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/
+
+### Picochan – Similar to nanochan
+- http://picochanwvqfa2xsrfzlul4x4aqtog2eljll5qnj5iagpbhx2vmfqnid.onion/
+
+### 9chan
+- http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/
+
+### zzzchan
+- http://crghlabr45r5pqkgnbgehywk5nxutdks5iss7tabyux5psikqqjirryd.onion/index.html
+
+### NeinChan
+- http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/
+
+### Endchan – Not the end of the world
+- http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/
+
+
+## [ Privacy Services ]
+
+### Riseup – Email and more
+- http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/
+
+### SystemLI – Hidden Service of systemli.org
+- http://7sk2kov2xwx6cbc32phynrifegg6pklmzs7luwcggtzrnlsolxxuyfyd.onion/en/index.html
+
+### Cryptostorm – Good VPN provider
+- http://stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion/
+
+## [ Email Providers ]
+
+### Cock.li – A good email provider
+- http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/
+- http://xdkriz6cn2avvcr2vks5lvvtmfojz2ohjzj4fhyuka55mvljeso2ztqd.onion/
+
+### Elude Mail – Elude.in hidden service
+- http://eludemailxhnqzfmxehy3bk5guyhlxbunfyhkcksv4gvx6d3wcf6smad.onion/
+
+### Ctemplar – Armored Email
+- http://ctemplarpizuduxk3fkwrieizstx33kg5chlvrh37nz73pv5smsvl6ad.onion/
+
+### Mail2Tor@onion
+- http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/
+
+### ProtonMail
+- https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/
+
+
+## [ Blogs and Personal Sites ]
+
+### qorg11 – qord11.net mirror
+- http://lainwir3s4y5r7mqm3kurzpljyf77vty2hrrfkps6wm4nnnqzest4lqd.onion/
+
+### CourseEnigma – Course Enigma Blog
+- http://cgjzkysxa4ru5rhrtr6rafckhexbisbtxwg2fg743cjumioysmirhdad.onion/
+
+### Kill9 – Kill9 Blog
+- http://killnod2s77o3axkktdu52aqmmy4acisz2gicbhjm4xbvxa2zfftteyd.onion/
+
+### MayVaneDayStudios – May Vane Day Studios
+- http://meynethaffeecapsvfphrcnfrx44w2nskgls2juwitibvqctk2plvhqd.onion/
+
+### ShadowWiki – Shadow Wiki Blog
+- http://zsxjtsgzborzdllyp64c6pwnjz5eic76bsksbxzqefzogwcydnkjy3yd.onion/index.xhtml
+
+### GoBeyond – GoBeyond Blog
+- http://potatoynwcg34xyodol6p6hvi5e4xelxdeowsl5t2daxywepub32y7yd.onion/
+
+### 0ut3r Space
+- http://reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion/index.html
+
+### S-Config
+- http://xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion/
+
+### The Secret Story Archive 
+- http://tssa3yo5xfkcn4razcnmdhw5uxshx6zwzngwizpyf7phvea3gccrqbad.onion/
+
+### RansomeXX
+- http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/
+
+
+## [ Hacking ]
+
+### Defcon – Official Defcon Site
+- http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/
+
+## [ News Sites ]
+
+### ProPublica – ProPublica News
+- http://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/
+
+### DarkNetLive – Dark Web News
+- http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/
+
+### BBC
+- https://www.bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion/
+
+### Daily Stormer
+- http://stormer5v52vjsw66jmds7ndeecudq444woadhzr2plxlaayexnh6eqd.onion
+
+### The Onion Web
+- http://onionwsoiu53xre32jwve7euacadvhprq2jytfttb55hrbo3execodad.onion/
+
+### VDARE.com
+- http://f2vfjp3jc37gxgn4hum4uf2bhi2w3kp4jbzdwegrn6bvtezbhminobid.onion/
+
+
+
+## [ Open Source Software ]
+
+### Whonix – Whonix OS
+- http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/
+
+### QubesOS – Similar to Whonix
+- http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion/
+
+### KeyBase.IO – Keybase.IO mirror
+- http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/
 
 ## [ Libraries ]
 
 ### InfoCon
 - http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion/
+
+### Imperial Library – Imperial Library Site
+- http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/
+
+### Comic Book Library – Comic Books
+- http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/
 
 ### Just Another Library
 - http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/
@@ -196,9 +475,6 @@ The following list are the first sites which are available as a v3 .onion hidden
 
 ### Ransomware Group Sites 
 - http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/ 
-
-### Defcon – Official Defcon Site
-- http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/
 
 ### Runion
 - http://runionv3do7jdylpx7ufc6qkmygehsiuichjcstpj4hb2ycqrnmp67ad.onion/
@@ -266,27 +542,6 @@ The following list are the first sites which are available as a v3 .onion hidden
 ### The HUB
 - http://thehubmcwyzwijjoqvdtpmu36npcueypjbgnvbqz4jliwjmmnpfkzkqd.onion/
 
-### 9chan
-- http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/
-
-### 8chan Community
-- http://4usoivrpy52lmc4mgn2h34cmfiltslesthr56yttv2pxudd3dapqciyd.onion/
-
-### nanochan
-- http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/
-
-### zzzchan
-- http://crghlabr45r5pqkgnbgehywk5nxutdks5iss7tabyux5psikqqjirryd.onion/index.html
-
-### NeinChan
-- http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/
-
-### Picochan
-- http://picochanwvqfa2xsrfzlul4x4aqtog2eljll5qnj5iagpbhx2vmfqnid.onion/
-
-### Endchan
-- http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/
-
 
 ## [ Chats ]
 
@@ -309,208 +564,16 @@ The following list are the first sites which are available as a v3 .onion hidden
 - http://juvenilezskkwc2gu7j5c4akppjnr3kzlgljjeodd5psn6fwcnloplid.onion/
 
 
-## [ Drugs ]
+## [ Others Sites ]
 
-### Drugs
-- http://ofhusuznhfnmtli3l6r3xizo27zoymka77dzehkeib56fhuxrcloy2id.onion/
+### CIA.gov – Official CIA Site
+- http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/
 
-### Store Cocaine
-- http://bnkgnccepweowy5oqxuop2w576rdlyerqtfi2qh3slxrqh4towrlcead.onion/
+### Bible4u – The Bible
+- http://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion/
 
-### Cannabis
-- http://hpcphv5q3lhiebh6c765lslihne4tn6ui5dnd636eo2ic3ytv7c72qid.onion/
-
-### Shop LSD
-- http://m5cdgczbmmpidmaa7jozopb4bd5g27lezdwymnqeoiwqsc6wf5ekuhad.onion/
-
-### Market Ecstasy
-- http://6ewotpaeih7g6gphvesr5td3p4fqtniwzhlxfjszemvbi7zg75ceyzid.onion/
-
-### DCdutchconnectionUK 
-- http://wbz2lrxhw4dd7h5t2wnoczmcz5snjpym4pr7dzjmah4vi6yywn37bdyd.onion/
-
-### DrChronic 
-- http://iwggpyxn6qv3b2twpwtyhi2sfvgnby2albbcotcysd5f7obrlwbdbkyd.onion/
-
-### Tom and Jerry Store
-- http://rfyb5tlhiqtiavwhikdlvb3fumxgqwtg2naanxtiqibidqlox5vispqd.onion/
-
-### 420prime
-- http://ajlu6mrc7lwulwakojrgvvtarotvkvxqosb4psxljgobjhureve4kdqd.onion/
-
-### EuCanna
-- http://n6qisfgjauj365pxccpr5vizmtb5iavqaug7m7e4ewkxuygk5iim6yyd.onion/
-
-### Smokeables
-- http://kl4gp72mdxp3uelicjjslqnpomqfr5cbdd3wzo5klo3rjlqjtzhaymqd.onion/
-
-### Cannabis UK
-- http://7mejofwihleuugda5kfnr7tupvfbaqntjqnfxc4hwmozlcmj2cey3hqd.onion/
-
-### NL Growers
-- http://usmost4cbpesx552s2s4ti3c4nk2xgiu763vhcs3b4uc4ppp3zwnscyd.onion/
-
-### Peoples Drug Store
-- http://xf2gry25d3tyxkiu2xlvczd3q7jl6yyhtpodevjugnxia2u665asozad.onion/
-
-### DeDope
-- http://sga5n7zx6qjty7uwvkxpwstyoh73shst6mx3okouv53uks7ks47msayd.onion/
-
-## [ Guns ]
-
-### UK Guns
-- http://k6m3fagp4w4wspmdt23fldnwrmknse74gmxosswvaxf3ciasficpenad.onion/
-- http://onili244aue7jkvzn2bgaszcb7nznkpyihdhh7evflp3iskfq7vhlzid.onion/
-
-### EuroGuns
-- http://t43fsf65omvf7grt46wlt2eo5jbj3hafyvbdb7jtr2biyre5v24pebad.onion/
-- http://hyjgsnkanan2wsrksd53na4xigtxhlz57estwqtptzhpa53rxz53pqad.onion/
-
-[ Services ]
-
-### Cock.li 
-- http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/
-
-### Mail2Tor@onion
-- http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/
-
-### ProtonMail
-- https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/
-
-### TorShops - Create your own .onion store
-- http://uescqfrcztbhb6tmhdlbejrjfwgtpckcoiwmwq5bfq5hhkwfioan7qad.onion/
-
-### Onion Identify Services
-- http://ymvhtqya23wqpez63gyc3ke4svju3mqsby2awnhd3bk2e65izt7baqad.onion/
-- http://endtovmbc5vokdpnxrhajcwgkfbkfz4wbyhbj6ueisai4prtvencheyd.onion/
-
-### US Fake ID Store
-- http://lqcjo7esbfog5t4r4gyy7jurpzf6cavpfmc4vkal4k2g4ie66ao5mryd.onion/
-- http://7wsvq2aw5ypduujgcn2zauq7sor2kqrqidguwwtersivfa6xcmdtaayd.onion/
-
-### USA Citizenship
-- http://gd5x24pjoan2pddc2fs6jlmnqbawq562d2qyk6ym4peu5ihzy6gd4jad.onion/
-- http://pz5uprzhnzeotviraa2fogkua5nlnmu75pbnnqu4fnwgfffldwxog7ad.onion/
-
-### Apples 4 Bitcoin
-- http://okayd5ljzdv4gzrtiqlhtzjbflymfny2bxc2eacej3tamu2nyka7bxad.onion/
-- http://awsvrc7occzj2yeyqevyrw7ji5ejuyofhfomidhh5qnuxpvwsucno7id.onion/
-
-### UK Passports
-- http://3bp7szl6ehbrnitmbyxzvcm3ieu7ba2kys64oecf4g2b65mcgbafzgqd.onion/
-- http://wosc4noitfscyywccasl3c4yu3lftpl2adxuvprp6sbg4fud6mkrwqqd.onion/
-
-### Rent-A-Hacker
-- http://kq4okz5kf4xosbsnvdr45uukjhbm4oameb6k6agjjsydycvflcewl4qd.onion/
-- http://jn6weomv6klvnwdwcgu55miabpwklsmmyaf5qrkt4miif4shrqmvdhqd.onion/
-
-## [ Cryptocurrency mixers/exchanges ]
-
-### Buy or Sell Bitcoins Anonymous
-- http://2jopbxfi2mrw6pfpmufm7smacrgniglr7a4raaila3kwlhlumflxfxad.onion/nojs/
-
-### Anonymixer
-- http://btcmixer2e3pkn64eb5m65un5nypat4mje27er4ymltzshkmujmxlmyd.onion/
-
-### Antinalysis
-- http://pdcdvggsz5vhzbtxqn2rh27qovzga4pnrygya4ossewu64dqh2tvhsyd.onion/
-
-### Bisq Wiki
-- http://s3p666he6q6djb6u3ekjdkmoyd77w63zq6gqf6sde54yg6bdfqukz2qd.onion/
-
-### Bitcoin Core
-- http://6hasakffvppilxgehrswmffqurlcjjjhd76jgvaqmsg6ul25s7t3rzyd.onion/
-
-### Blender.io
-- http://blenderiopnzbuvtva6d2ddiedrbf6fbekh5axomzho6wrulowcludad.onion/
-
-### Coinb.in
-- http://coinbin3ravkwb24f7rmxx6w3snkjw45jhs5lxbh3yfeg3vpt6janwqd.onion/
-
-### Elude
-- http://eludemailxhnqzfmxehy3bk5guyhlxbunfyhkcksv4gvx6d3wcf6smad.onion/
-
-### Feather
-- http://featherdvtpi7ckdbkb2yxjfwx3oyvr3xjz3oo4rszylfzjdg6pbm3id.onion/
-
-### Monero
-- http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/
-
-### Kilos | Darknet Market
-- http://mlyusr6htlxsyc7t2f4z53wdxh3win7q3qpxcrbam6jf3dmua7tnzuyd.onion/search
-
-### KSwap | Kilos 
-- http://nehdddktmhvqklsnkjqcbpmb63htee2iznpcbs5tgzctipxykpj6yrid.onion/
-
-### Majestic Bank
-- https://majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion/
-
-### Wasabi Wallet
-- http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion/
-
-### Xchange.me
-- http://aa7oyok6dxgyedeteldaumqjernm5ai7dnpqayy3p4q7solc6dxi5vad.onion/
-
-### Dark Mining 
-- http://jbtb75gqlr57qurikzy2bxxjftzkmanynesmoxbzzcp7qf5t46u7ekqd.onion/
-- http://sazyr2ntihjqpjtruxbn2z7kingj6hfgysiy5lzgo2aqduqpa3gfgmyd.onion/
-
-### Bitcoin Investment Trust
-- http://jhi4v5rjly75ggha26cu2eeyfhwvgbde4w6d75vepwxt2zht5sqfhuqd.onion/ 
-- http://2ezyofc26j73hv3xxvsrnbc23dqxhgxqtk5ogcc7y6j5t6rlqquvhzid.onion/
-
-### Mobile Store
-- http://rxmyl3izgquew65nicavsk6loyyblztng6puq42firpvbe32sefvnbad.onion/
-- http://ez37hmhem2gh3ixctfeaqn7kylal2vyjqsedkzhu4ebkcgikrigr5gid.onion/
-
-### Kamagra For Bitcoin
-- http://vhlehwexxmbnvecbmsk4ormttdvhlhbnyabai4cithvizzaduf3gmayd.onion/
-- http://bepig5bcjdhtlwpgeh3w42hffftcqmg7b77vzu7ponty52kiey5ec4ad.onion/
-
-### Brainmagic
-- http://2ln3x7ru6psileh7il7jot2ufhol4o7nd54z663xonnnmmku4dgkx3ad.onion/
-
-## [ News ]
-
-### BBC
-- https://www.bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion/
-
-### Daily Stormer
-- http://stormer5v52vjsw66jmds7ndeecudq444woadhzr2plxlaayexnh6eqd.onion
-
-### Dark Net Live
-- http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/
-
-### The Onion Web
-- http://onionwsoiu53xre32jwve7euacadvhprq2jytfttb55hrbo3execodad.onion/
-
-### VDARE.com
-- http://f2vfjp3jc37gxgn4hum4uf2bhi2w3kp4jbzdwegrn6bvtezbhminobid.onion/
-
-## [ Blogs ]
-
-### DarkNetLive – Dark Web News
-- http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/
-
-### Shadow Wiki
-- http://zsxjtsgzborzdllyp64c6pwnjz5eic76bsksbxzqefzogwcydnkjy3yd.onion/index.xhtml
-
-### Course Enigma
-- http://cgjzkysxa4ru5rhrtr6rafckhexbisbtxwg2fg743cjumioysmirhdad.onion/
-
-### 0ut3r Space
-- http://reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion/index.html
-
-### S-Config
-- http://xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion/
-
-### The Secret Story Archive 
-- http://tssa3yo5xfkcn4razcnmdhw5uxshx6zwzngwizpyf7phvea3gccrqbad.onion/
-
-### RansomeXX
-- http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/
-
-## [ Others ]
+### LocalMonero – Local Monero Trades
+- http://nehdddktmhvqklsnkjqcbpmb63htee2iznpcbs5tgzctipxykpj6yrid.onion/nojs/captcha
 
 ### Fake ID Generator - Fake Identity Name, SSN, Driver's License, and Credit Card Numbers Generator.
 - http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/
@@ -529,3 +592,23 @@ The following list are the first sites which are available as a v3 .onion hidden
 
 ### Satanic Ceremony
 - http://ho2hua2hfduv6f7hcbzdj2e6qdn4szgyy2jjnx545v4z3epq7uyrscid.onion/
+
+
+
+## V2 .onion Deprecation Timeline
+
+```
+September 2020: Old v2 .onion sites will show a warning in Torbrowser.
+
+October 2021: Old v2 .onion sites will stop working in the latest release of the Torbrowser.
+
+The migration to a new hidden service version will take some time, we hope all dark web sites operators will publish a v3 .onion soon so we can list them on The Hidden wiki.
+```
+
+## Why migrate from v2 to v3 .onion domains?
+
+```
+The reason for the switch is basically that the cryptography of the short v2 onion domains is not secure anymore, and the longer v3 .onion domains provide much higher security.
+
+Soon powerful supercomputers will be able to crack the old .onion’s and impersonate them on the dark web by using their cracked private key to host a site themselves.
+```
