@@ -1,7 +1,7 @@
 # Dark Web Links v3
 
 ## New v3 Hidden Services
-'''
+```
 V3 Onion Hidden Services Links And Deprecation Of Old V2 Onion Sites
 
 The short version 2 onion services will soon be deprecated, after 15 years the Tor Project is going to switch to the new and more secore, and also longer version 3 .onion links.
@@ -11,7 +11,7 @@ Most dark web .onion sites link lists only list the old v2 .onion urls. But in O
 So make sure to have a site like this repo bookmarked where you can find the new v3 dark web links.
 
 The following list are the first sites which are available as a v3 .onion hidden service, when more sites switch to the new protocol, we will update the homepage with a bigger list of up to date links.
-'''
+```
 
 > Recommendet to use [Tails](https://tails.boum.org/ 'Tails') as a live usb
 
