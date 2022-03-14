@@ -4,11 +4,9 @@
 ```
 V3 Onion Hidden Services Links And Deprecation Of Old V2 Onion Sites
 
-The short version 2 onion services will soon be deprecated, after 15 years the Tor Project is going to switch to the new and more secore, and also longer version 3 .onion links.
+The short version 2 onion services will deprecated, after 15 years the Tor Project is going to switch to the new and more secore, and also longer version 3 .onion links.
 
-Most dark web .onion sites link lists only list the old v2 .onion urls. But in October 2021 they will stop working.
-
-So make sure to have a site like this repo bookmarked where you can find the new v3 dark web links.
+Make sure to have a site like this repo bookmarked where you can find the new v3 dark web links.
 
 The following list are the first sites which are available as a v3 .onion hidden service, when more sites switch to the new protocol, we will update the homepage with a bigger list of up to date links.
 ```
@@ -492,6 +490,24 @@ The following list are the first sites which are available as a v3 .onion hidden
 ### Hacker Game
 - http://blackhost7pws76u6vohksdahnm6adf7riukgcmahrwt43wv2drvyxid.onion/
 
+### Arvin Club
+- http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion
+
+### CL0P^_- LEAKS
+- http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion
+
+### Cuba Ransomware
+- http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion
+
+### HiveLeaks
+- http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion
+
+### Ragnar_Locker Leaks site
+- http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion
+
+### LockBit
+- http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion
+
 ## [ News Sites ]
 
 ### ProPublica – ProPublica News
@@ -520,6 +536,15 @@ The following list are the first sites which are available as a v3 .onion hidden
 
 ### The Intercept
 - http://27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion/
+
+### CONTI.News
+- http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion
+
+### News
+- http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion
+
+### News
+- http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion
 
 ## [ Open Source Software ]
 
@@ -683,21 +708,9 @@ The following list are the first sites which are available as a v3 .onion hidden
 ### Deep Web Radio
 - http://anonyradixhkgh5myfrkarggfnmdzzhhcgoy2v66uf7sml27to5n2tid.onion/
 
-
-## V2 .onion Deprecation Timeline
-
-```
-September 2020: Old v2 .onion sites will show a warning in Torbrowser.
-
-October 2021: Old v2 .onion sites will stop working in the latest release of the Torbrowser.
-
-The migration to a new hidden service version will take some time, we hope all dark web sites operators will publish a v3 .onion soon so we can list them on this repo.
-```
-
-## Why migrate from v2 to v3 .onion domains?
-
-```
-The reason for the switch is basically that the cryptography of the short v2 onion domains is not secure anymore, and the longer v3 .onion domains provide much higher security.
-
-Soon powerful supercomputers will be able to crack the old .onion’s and impersonate them on the dark web by using their cracked private key to host a site themselves.
-```
+## Donate
+- BTC) bc1qjmp35tkz542xf7dmvrzqz4fgxlrm0prl0re889
+- ETH) 0x0B3F99A01205F23109F9578Cb72BA46A025381B3
+- BNB) bnb1fehst2crq957glcy0k2w8cvp64nu2wnezpznj0
+- SHIB - ERC20) 0x0B3F99A01205F23109F9578Cb72BA46A025381B3
+- USDT - ERC20) 0x0B3F99A01205F23109F9578Cb72BA46A025381B3
