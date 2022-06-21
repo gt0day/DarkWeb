@@ -20,7 +20,6 @@ The following list are the first sites which are available as a v3 .onion hidden
 
 ##### [1] Mixabit – Bitcoin mixer
 - http://hqfld5smkr4b4xrjcco7zotvoqhuuoehjdvoin755iytmpk4sm7cbwad.onion/
-- http://hqfld5smkr4b4xrjcco7zotvoqhuuoehjdvoin755iytmpk4sm7cbwad.onion/
 
 ##### [2] OnionLinks – .Onion link directory.
 - http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion/
