@@ -5,7 +5,7 @@
 
 > Recommendet to use [Tails](https://tails.boum.org/ 'Tails') as a live usb
 
-![DarkWeb](darkweb.jpg)
+![DarkWeb](darkweb.jpeg)
 
 ## Hidden Wiki Editor’s picks
 > Some of the most interesting sites on The Hidden Wiki and the dark web
