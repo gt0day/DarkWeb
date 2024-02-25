@@ -565,7 +565,7 @@ http://ao5zixnmkaydkt3rkxuvi5g6knyywreiu7lpqjv3hpjt7g2z675pzsid.onion/
 - http://i3xi5qxvbrngh3g6o7czwjfxwjzigook7zxzjmgwg5b7xnjcn5hzciad.onion/
 
 ### Encrypt Your Links!
-- k6dgsosix6ogghf6qncjbx3qoeorxdryvj6nqxn6jcce23ex5oqzfjad.onion
+- http://k6dgsosix6ogghf6qncjbx3qoeorxdryvj6nqxn6jcce23ex5oqzfjad.onion/
 
 ### 0xBin
 - http://qibpme6jnnxjjyqvwfnioes4vkplyrixjd7vopuzl3xsxqnzjhlhvjqd.onion/
